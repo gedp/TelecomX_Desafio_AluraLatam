@@ -41,6 +41,7 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
 ├── 📊 correlacion_variables.png
 └── 📊 analisis_categorico.png
 
+
 ## Proceso ETL Implementado
 
 ### 1. Extract (Extracción de Datos)
