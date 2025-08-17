@@ -139,6 +139,9 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
     * 📊 Implementar alertas tempranas para clientes en riesgo.
     * 📈 Realizar análisis A/B para evaluar la efectividad de las estrategias.
 
+---
+Hecho con ❤️ para el desafío de Alura Latam, por: [SynergyaTech](https://synergya.tech)
+
 ## Cómo Ejecutar el Proyecto
 ### Prerrequisitos
 * Python 3.8 o superior.
@@ -190,5 +193,4 @@ Nota: Este proyecto fue desarrollado como parte del desafío de Alura LATAM para
 
 ⭐ Si este proyecto te fue útil, ¡considera darle una estrella! ⭐
 
----
-Hecho con ❤️ para el desafío de Alura Latam, por: [SynergyaTech](https://synergya.tech)
+
