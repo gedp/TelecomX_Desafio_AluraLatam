@@ -2,8 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Descripción del Proyecto
 Bienvenido al Desafío Telecom X, un caso práctico del programa ONE de Alura LATAM. En este proyecto, me desempeño como analista de datos en una empresa de telecomunicaciones que enfrenta un problema crítico: la alta evasión de clientes (churn).
