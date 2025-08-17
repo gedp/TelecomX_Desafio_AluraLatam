@@ -30,15 +30,15 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
 
 ## Estructura del Proyecto
 📁 TelecomX_Challenge/
-├── 📓 TelecomX_ETL_Analysis.ipynb    # Notebook principal con análisis completo
-├── 📄 README.md                      # Descripción del proyecto (este archivo)
-├── 📄 TelecomX_Procesado.csv         # Datos procesados en formato CSV
-├── 📄 TelecomX_Procesado.json        # Datos procesados en formato JSON
-├── 📄 TelecomX_Procesado.xlsx        # Datos procesados en formato Excel
-└── 📄 resultados/                    # Carpeta con visualizaciones y reportes
-├── 📊 distribucion_churn.png
-├── 📊 correlacion_variables.png
-└── 📊 analisis_categorico.png
+├── 📓 TelecomX_ETL_Analysis.ipynb - Notebook principal con análisis completo
+├── 📄 README.md - Descripción del proyecto
+├── 📄 TelecomX_Procesado.csv - Datos procesados en formato CSV
+├── 📄 TelecomX_Procesado.json - Datos procesados en formato JSON
+├── 📄 TelecomX_Procesado.xlsx - Datos procesados en formato Excel
+└── 📁 resultados/ - Carpeta con visualizaciones y reportes
+  ├── 📊 distribucion_churn.png
+  ├── 📊 correlacion_variables.png
+  └── 📊 analisis_categorico.png
 
 
 ## Proceso ETL Implementado
