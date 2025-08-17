@@ -29,7 +29,6 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
 * **Google Colab:** Entorno de desarrollo.
 
 ## Estructura del Proyecto
-
 📁 TelecomX_Challenge/
 ├── 📓 TelecomX_ETL_Analysis.ipynb    # Notebook principal con análisis completo
 ├── 📄 README.md                      # Descripción del proyecto (este archivo)
