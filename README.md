@@ -29,7 +29,7 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
 * **Google Colab:** Entorno de desarrollo.
 
 ## Estructura del Proyecto
-<img width="955" height="415" alt="image" src="https://github.com/user-attachments/assets/3d04cfa4-983d-407c-8000-88b554c4f236" />
+<img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/3d04cfa4-983d-407c-8000-88b554c4f236" />
 
 ## Proceso ETL Implementado
 
