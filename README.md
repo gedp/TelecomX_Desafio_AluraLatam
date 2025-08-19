@@ -29,17 +29,7 @@ El objetivo principal es aplicar un proceso completo de ETL (Extract, Transform,
 * **Google Colab:** Entorno de desarrollo.
 
 ## Estructura del Proyecto
-📁 TelecomX_Challenge/
-├── 📓 TelecomX_ETL_Analysis.ipynb - Notebook principal con análisis completo
-├── 📄 README.md - Descripción del proyecto
-├── 📄 TelecomX_Procesado.csv - Datos procesados en formato CSV
-├── 📄 TelecomX_Procesado.json - Datos procesados en formato JSON
-├── 📄 TelecomX_Procesado.xlsx - Datos procesados en formato Excel
-└── 📁 resultados/ - Carpeta con visualizaciones y reportes
-  ├── 📊 distribucion_churn.png
-  ├── 📊 correlacion_variables.png
-  └── 📊 analisis_categorico.png
-
+<img width="1155" height="415" alt="image" src="https://github.com/user-attachments/assets/3d04cfa4-983d-407c-8000-88b554c4f236" />
 
 ## Proceso ETL Implementado
 
